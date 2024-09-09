@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gympc\\source\\repos\\GithubOpgave\\GithubOpgave\\GithubOpgave.csproj": {}
+    "C:\\Users\\Tan\\source\\repos\\Systemudvikling-Github-Opgave-bugfix\\GithubOpgave\\GithubOpgave\\GithubOpgave.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gympc\\source\\repos\\GithubOpgave\\GithubOpgave\\GithubOpgave.csproj": {
+    "C:\\Users\\Tan\\source\\repos\\Systemudvikling-Github-Opgave-bugfix\\GithubOpgave\\GithubOpgave\\GithubOpgave.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gympc\\source\\repos\\GithubOpgave\\GithubOpgave\\GithubOpgave.csproj",
+        "projectUniqueName": "C:\\Users\\Tan\\source\\repos\\Systemudvikling-Github-Opgave-bugfix\\GithubOpgave\\GithubOpgave\\GithubOpgave.csproj",
         "projectName": "GithubOpgave",
-        "projectPath": "C:\\Users\\gympc\\source\\repos\\GithubOpgave\\GithubOpgave\\GithubOpgave.csproj",
-        "packagesPath": "C:\\Users\\gympc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gympc\\source\\repos\\GithubOpgave\\GithubOpgave\\obj\\",
+        "projectPath": "C:\\Users\\Tan\\source\\repos\\Systemudvikling-Github-Opgave-bugfix\\GithubOpgave\\GithubOpgave\\GithubOpgave.csproj",
+        "packagesPath": "C:\\Users\\Tan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tan\\source\\repos\\Systemudvikling-Github-Opgave-bugfix\\GithubOpgave\\GithubOpgave\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gympc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Tan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
